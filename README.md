@@ -2,7 +2,10 @@ unzip the 7z file
 for further information you will get a readme file inside the extracted file
 the extracted file should be arranged in this manner 
 upi-fraud-detection/
-│
+│----routes/
+!------admin_routes.py
+!------auth_routes.py
+!------scan_routes.py
 ├── app.py
 ├── requirements.txt
 ├── templates/
